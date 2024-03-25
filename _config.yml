@@ -2,16 +2,16 @@ theme: jekyll-theme-chirpy
 lang: ko-KR
 timezone: Asia/Seoul
 title: 내 블로그
-url: "https://ssangjun706.github.io/"
+url: "https://ssj314.github.io/"
 
 github:
-  username: ssangjun706
+  username: ssj314
 
 social:
   name: Sangjun Song
   email: ssangjun706@naver.com
   links:
-    - https://github.com/ssangjun706
+    - https://github.com/ssj314
 
 analytics:
   google:
