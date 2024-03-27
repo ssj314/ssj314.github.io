@@ -1,7 +1,7 @@
 ---
 title: 비동기 프로그래밍
 posted: YYYY-MM-DD hh:mm:ss +09:00
-category: ["Dev", "Dart/Flutter"]
+category: ["개발", "Flutter"]
 ---
 
 ## 목차
