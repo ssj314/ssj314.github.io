@@ -1,7 +1,7 @@
 ---
 title: Quadratic form
 posted: YYYY-MM-DD hh:mm:ss +09:00
-category: ["강의노트", "볼록최적화입문", "Chapter 3"]
+category: ["강의노트", "볼록최적화입문"]
 ---
 지난 게시물에서 벡터 공간과 고유 벡터에 대해서 배웠다. 이번 포스팅에서는 Quadratic form(이차 형식)에 대해서 알아볼 것이다.
 
