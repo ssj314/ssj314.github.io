@@ -1,10 +1,10 @@
 ---
 title: 생성 모델
 posted: YYYY-MM-DD hh:mm:ss +09:00
-category: ["Deep Learning", "Generative Model"]
+category: ["Study", "Deep Learning"]
 tags: [
     "PyTorch",
-    "GAN"
+    "Generative Model"
 ]
 ---
 
